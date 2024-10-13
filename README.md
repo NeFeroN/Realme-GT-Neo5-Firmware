@@ -37,7 +37,7 @@ Changelog | 150W | 240W
 
 Verison | 150W | 240W
 :---: | :---: | :---:
-[13.1.0.115] | [Download](https://rbp01.realme.net/GT_Neo5/RMX3706_11_A_OTA_0450_all_kfXLEj_CN.zip?fbclid=IwAR0GsmGhas4YuVviSUvx5d48gmS-CJSpxi4v3LMu_eotF2jhpbNic4v8kB0) | [Download](https://rbp01.realme.net/GT_Neo5_240W/RMX3708_11_A_OTA_0450_all_MBejmZ_CN.zip?fbclid=IwAR1Dy_NkpomIrM2Sb5pO4HDjU2q2AUcuc7RUUdWF1R1RSz236D6QS4sQs_s)  
+13.1.0.115 | [Download](https://rbp01.realme.net/GT_Neo5/RMX3706_11_A_OTA_0450_all_kfXLEj_CN.zip?fbclid=IwAR0GsmGhas4YuVviSUvx5d48gmS-CJSpxi4v3LMu_eotF2jhpbNic4v8kB0) | [Download](https://rbp01.realme.net/GT_Neo5_240W/RMX3708_11_A_OTA_0450_all_MBejmZ_CN.zip?fbclid=IwAR1Dy_NkpomIrM2Sb5pO4HDjU2q2AUcuc7RUUdWF1R1RSz236D6QS4sQs_s)  
 
 </td><td>
 
