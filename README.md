@@ -44,6 +44,7 @@ Verison | 150W | 240W
 
 Verison | 150W | 240W
 :---: | :---: | :---:
-14.0.0.901| [Download](https://github.com/NeFeroN/Realme-GT-Neo5-Firmware/releases/download/cn.subs/CN_901_150W_Subs.zip) | [Download](https://github.com/NeFeroN/Realme-GT-Neo5-Firmware/releases/download/cn.subs/CN_901_240W_Subs.zip)  
+14.0.0.903 | [Download](https://github.com/NeFeroN/Realme-GT-Neo5-Firmware/releases/download/cn.subs.903/CN_903_150W_Subs.zip) | [Download](https://github.com/NeFeroN/Realme-GT-Neo5-Firmware/releases/download/cn.subs.903/CN_903_240W_Subs.zip)
+14.0.0.901 | [Download](https://github.com/NeFeroN/Realme-GT-Neo5-Firmware/releases/download/cn.subs/CN_901_150W_Subs.zip) | [Download](https://github.com/NeFeroN/Realme-GT-Neo5-Firmware/releases/download/cn.subs/CN_901_240W_Subs.zip)  
 
 </td></tr> </table>
