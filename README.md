@@ -7,6 +7,8 @@
 
 Changelog | 150W | 240W
 :---: | :---: | :---:
+[15.0.0.300]() | [Download](https://gauss-otacostmanual-cn.allawnfs.com/remove-f1d36e41d92877f060f17c47f7d54534/component-ota/24/11/16/9d6d9533d973467c964d5393b9977ed2.zip) | [Download](https://gauss-otacostmanual-cn.allawnfs.com/remove-d5fa6fb3f7a81f6d3aa67fd3828ba566/component-ota/24/11/16/d975aa350b304888a0523a02ca009ada.zip)  
+ |  | 
 [14.0.0.903](https://t.me/gt3neo5hub/202/191619) | [Download](https://gauss-otacostmanual-cn.allawnfs.com/remove-d26869f1a3a309e9678b19ffe7ed4d38/component-ota/24/09/25/cec0b7c349f0401495ba9101e8690d06.zip) | [Download](https://gauss-otacostmanual-cn.allawnfs.com/remove-ff16bcc6f804e01c3353eb93277b5010/component-ota/24/09/25/2bf65dbcbe694d8bbfc67ea477447827.zip)  
 [14.0.0.901](https://t.me/gt3neo5hub/202/175420) | [Download](https://gauss-otacostmanual-cn.allawnfs.com/remove-c81e15b2714b9eaa06d68f1b94b6761b/component-ota/24/08/30/daab7edcd3df4bcbb3ae288fca3496e5.zip) | [Download](https://gauss-otacostmanual-cn.allawnfs.com/remove-43cb2518b6a28e1647fcfc0293cd391c/component-ota/24/08/30/b562cce8ccfe4d73af8a64f3c7d99b3e.zip)  
 [14.0.0.900](https://t.me/gt3neo5hub/202/163837) | [Download](https://gauss-otacostmanual-cn.allawnfs.com/remove-0495932975448ff5b0d01cace2f2361b/component-ota/24/08/17/ee2079591a2c4b8bb22e829f66582ef6.zip) | [Download](https://gauss-otacostmanual-cn.allawnfs.com/remove-0495932975448ff5b0d01cace2f2361b/component-ota/24/08/17/ee2079591a2c4b8bb22e829f66582ef6.zip)  
@@ -38,7 +40,8 @@ Changelog | 150W | 240W
 
 Verison | 150W | 240W
 :---: | :---: | :---:
-13.1.0.115 | [Download](https://rbp01.realme.net/GT_Neo5/RMX3706_11_A_OTA_0450_all_kfXLEj_CN.zip?fbclid=IwAR0GsmGhas4YuVviSUvx5d48gmS-CJSpxi4v3LMu_eotF2jhpbNic4v8kB0) | [Download](https://rbp01.realme.net/GT_Neo5_240W/RMX3708_11_A_OTA_0450_all_MBejmZ_CN.zip?fbclid=IwAR1Dy_NkpomIrM2Sb5pO4HDjU2q2AUcuc7RUUdWF1R1RSz236D6QS4sQs_s)  
+14.0.0.903 | [Download](https://rbp01.realme.net/GT_Neo5/506_sign_RMX3706_11_C_OTA_1380_all_GEoCNz_10010111.zip) | [Download](https://rbp01.realme.net/GT_Neo5_240W/508_sign_RMX3708_11_C_OTA_1380_all_VZwF9U_10010111.zip)
+13.1.0.115 | [Download](https://rbp01.realme.net/GT_Neo5/RMX3706_11_A_OTA_0450_all_kfXLEj_CN.zip) | [Download](https://rbp01.realme.net/GT_Neo5_240W/RMX3708_11_A_OTA_0450_all_MBejmZ_CN.zip)
 
 </td><td>
 
