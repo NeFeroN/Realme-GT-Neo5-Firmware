@@ -7,6 +7,7 @@
 
 Changelog | 150W | 240W
 :---: | :---: | :---:
+[15.0.0.310](https://gauss-compotacostauto-cn.allawnfs.com/remove-fc1fdf7701b6a2b5b864a76a75df164e/component-ota/24/11/28/e06abb511d9e4b6199a682454550aa32.html?logoType=1) | [Download](https://gauss-otacostmanual-cn.allawnfs.com/remove-25ed9593ca7283ee05cbb450749050aa/component-ota/24/11/25/db99bcceebd5488aa5c1c542a2d7cef3.zip) | [Download](https://gauss-otacostmanual-cn.allawnfs.com/remove-fc1fdf7701b6a2b5b864a76a75df164e/component-ota/24/11/25/8ed2cc936cfe425dbda1a68b8c3bc613.zip)  
 [15.0.0.300]() | [Download](https://gauss-otacostmanual-cn.allawnfs.com/remove-f1d36e41d92877f060f17c47f7d54534/component-ota/24/11/16/9d6d9533d973467c964d5393b9977ed2.zip) | [Download](https://gauss-otacostmanual-cn.allawnfs.com/remove-d5fa6fb3f7a81f6d3aa67fd3828ba566/component-ota/24/11/16/d975aa350b304888a0523a02ca009ada.zip)  
  |  | 
 [14.0.0.903](https://t.me/gt3neo5hub/202/191619) | [Download](https://gauss-otacostmanual-cn.allawnfs.com/remove-d26869f1a3a309e9678b19ffe7ed4d38/component-ota/24/09/25/cec0b7c349f0401495ba9101e8690d06.zip) | [Download](https://gauss-otacostmanual-cn.allawnfs.com/remove-ff16bcc6f804e01c3353eb93277b5010/component-ota/24/09/25/2bf65dbcbe694d8bbfc67ea477447827.zip)  
